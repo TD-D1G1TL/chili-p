@@ -6,5 +6,6 @@ package chilip;
 public class ChiliP {
     public static void main (String[] args) {
         System.out.println("Chili powder is the secret ingredient, yo!");
+        System.out.println("-Jesse Pinkman, Breaking Bad");
     }
 }
