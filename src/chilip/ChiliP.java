@@ -1,7 +1,10 @@
 package chilip;
 
 /**
- * Created by huck on 7/24/2017.
+ * Created by Taylor Howe on 7/24/2017.
  */
 public class ChiliP {
+    public static void main (String[] args) {
+        System.out.println("Chili powder is the secret ingredient, yo!");
+    }
 }
