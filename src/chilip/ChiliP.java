@@ -8,5 +8,6 @@ public class ChiliP {
         System.out.println("Chili powder is the secret ingredient, yo!");
         System.out.println("-Jesse Pinkman, Breaking Bad");
         System.out.println("I can see how this VCS stuff is extremely useful!");
+        System.out.println("Trying to up my commit count. For some reason it shows only 1, but I've added 4 commits.");
     }
 }
